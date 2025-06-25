@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": "109baa140ae34f58",
     "username": "dpmods",
     "password": "dpmods",
@@ -13,28 +12,3 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
-
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
